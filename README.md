@@ -175,15 +175,21 @@ Display on Flask Dashboard
 ## Screenshots
 Student Registration Window
 
-(Add Screenshot Here)
+<img width="1866" height="987" alt="Screenshot 2026-06-06 210255" src="https://github.com/user-attachments/assets/dcc9f91e-6187-4ac8-b05c-2ee101e29caa" />
+
 
 Live Attendance Recognition
 
-(Add Screenshot Here)
+<img width="1881" height="935" alt="Screenshot 2026-06-06 211116" src="https://github.com/user-attachments/assets/33a6ad2f-176b-422d-be5e-6ef9357e14dc" />
+
+
+
 
 Attendance Dashboard
 
-(Add Screenshot Here)
+<img width="1889" height="987" alt="Screenshot 2026-06-06 211142" src="https://github.com/user-attachments/assets/2397ddf0-9579-4496-aa7e-8367034d31a4" />
+
+
 
 ## Future Enhancements
 • Attendance Date and Time Tracking
