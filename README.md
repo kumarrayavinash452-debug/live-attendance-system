@@ -47,3 +47,5 @@ Pandas
 
 Pillow (PIL)
 
+pip install -r requirements.txt
+
