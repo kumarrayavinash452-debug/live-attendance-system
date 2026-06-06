@@ -134,47 +134,37 @@ Student Registration
 
           │
           ▼
-
           
 Face Image Stored
 
           │
           ▼
-
           
 Load Dataset
 
           │
           ▼
-
           
 Start Camera Feed
 
           │
           ▼
-
           
 Detect Face
 
           │
           ▼
           
-          
-
-          
 Recognize Face
 
           │
           ▼
-
-
           
 Mark Attendance
 
           │
           ▼
-
-
+          
 Save CSV File
 
           │
