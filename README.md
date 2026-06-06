@@ -131,42 +131,73 @@ The attendance data will be displayed on a web page.
 
 ## System Workflow
 Student Registration
+
+
           │
+          
           ▼
 
           
 Face Image Stored
+
+
           │
+
+          
           ▼
 
           
 Load Dataset
+
+
           │
+
+          
           ▼
 
           
 Start Camera Feed
+
           │
+
+          
           ▼
 
           
 Detect Face
+
+
           │
+
+          
           ▼
 
           
 Recognize Face
+
+
           │
+
+          
           ▼
+
 
           
 Mark Attendance
+
+
           │
+
+          
           ▼
 
           
 Save CSV File
+
+
           │
+
+          
           ▼
 
           
