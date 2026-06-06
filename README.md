@@ -133,27 +133,43 @@ The attendance data will be displayed on a web page.
 Student Registration
           │
           ▼
+
+          
 Face Image Stored
           │
           ▼
+
+          
 Load Dataset
           │
           ▼
+
+          
 Start Camera Feed
           │
           ▼
+
+          
 Detect Face
           │
           ▼
+
+          
 Recognize Face
           │
           ▼
+
+          
 Mark Attendance
           │
           ▼
+
+          
 Save CSV File
           │
           ▼
+
+          
 Display on Flask Dashboard
 ## Screenshots
 Student Registration Window
